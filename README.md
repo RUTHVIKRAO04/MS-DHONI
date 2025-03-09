@@ -12,27 +12,6 @@ The application features:
 - Interactive biography section
 - Responsive design for all devices
 
-Project Structure:
-
-Project-2/
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx
-│   │   └── Header.css
-│   ├── data/
-│   │   └── dhoniData.js
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Stats.jsx
-│   │   ├── Records.jsx
-│   │   ├── Timeline.jsx
-│   │   └── *.css
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── public/
-└── package.json
-
  Features
 
 🏠 Home:
