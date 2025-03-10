@@ -1,8 +1,7 @@
 # MS-DHONI
-Collecting workspace informationHere's a professional README.md for your MS Dhoni project:
 
 MS Dhoni Career Showcase:
-A comprehensive React application showcasing MS Dhoni's illustrious cricket career, including his statistics, records, and career timeline.
+A  React application showcasing MS Dhoni's illustrious cricket career, including his statistics, records, and career timeline.
 
  Overview:
 The application features:
